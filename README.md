@@ -14,7 +14,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 
 ### Links
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [LiveSite](https://sunba33.github.io/deneme-project/)
 
 ### Built with
 
