@@ -10,7 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-[](desktop_screenshot.png)[](mobile_screenshot.png)
+[](https://github.com/sunba33/hello-world/blob/7b2a8401140ebb0aa46f856528dd906e17588ddd/desktop_screenshot.png)[](https://github.com/sunba33/hello-world/blob/dba55e0361e4dc38098566e0fea689ed6da91852/mobile_screenshot.png)
 
 
 ### Links
